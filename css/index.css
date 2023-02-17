@@ -261,8 +261,8 @@ img {
 }
 
 .border_1_left {
-  border-left: solid;
-  border-left-color: red;
+  border-left: 5px solid;
+  border-left-color: #158cba;
 }
 
 .border_1_right {
